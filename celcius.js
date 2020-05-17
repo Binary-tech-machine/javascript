@@ -7,6 +7,6 @@ var complex = ((4 + 4)* 5)/2
 // console.log(complex)
 let tempInFahernheit = 100;
 // do calculation 
-
+// to find difference btw var and let
 let celsius = (tempInFahernheit-32)* 5/9;
 console.log(celsius)
